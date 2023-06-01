@@ -8,4 +8,4 @@
 5. Cliquez simplement sur le bouton "**Send**". Votre Embed est envoyé !  ![image](https://github.com/WolfSay12/Webhook/assets/125210979/9afa27ba-e0ba-4132-b6da-672d8369cec3)
 
 
-## Ce tuto st **terminé**, et j'espère qu'il vous aura *plût* 🖤. Je reste disponible pour toute demande/suggestion 
+## Ce tuto est **terminé**, et j'espère qu'il vous aura *plût* 🖤. Je reste disponible pour toute demande/suggestion 
