@@ -1,4 +1,4 @@
-# Bienvenue sur cette roprository consacrée aux webhooh Discord !
+# Bienvenue sur cette roprository consacrée aux webhook Discord !
 
 ## Ici, vous allez apprendre à utiliser les webhook très facilement !
 
